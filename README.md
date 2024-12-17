@@ -3,7 +3,6 @@ Welcome to My GitHub Profile! 👋
 👀 Interests: All things programming, particularly in languages that make me look like a coding wizard (C#) and classics that keep the web running (PHP).
 🌱 Currently Learning: New ways to harness the raw power of C# and exploring why people keep talking about Python (spoiler: C# is still better!).
 💞️ Looking to Collaborate On: Projects that need performance, scalability, and elegance, ideally with a heavy dose of C# and PHP.
-📫 How to Reach Me: Just send me a pull request! Or find me at Vendux1@codeuniverse.com.
 😄 Pronouns: Code/Compile
 ⚡ Fun Fact: PHP has powered the web for decades. We wouldn’t have half the web without it. 😎
 
